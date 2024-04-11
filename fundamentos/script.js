@@ -2,8 +2,7 @@ console.log("vinculado correctamente")
 // Ejercicio 1: Declaración de variables
 // Instrucciones: Declara dos variables numéricas llamadas 'ahora' y 'fecha_nac'.
 // Luego, calcula y muestra en un mensaje la edad actual basada en el año de nacimiento.
-
-    
+//
 function declararVariables() {
     let ahora = 2024;
     let fecha_nac = 2004;
